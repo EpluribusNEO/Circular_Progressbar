@@ -1,0 +1,11 @@
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\bin\Release\Circular_Progressbar.exe.config
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\bin\Release\Circular_Progressbar.exe
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\bin\Release\Circular_Progressbar.pdb
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.csprojAssemblyReference.cache
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.Code.CircularProgressBar.resources
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.MainForm.resources
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.Properties.Resources.resources
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.csproj.GenerateResource.cache
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.csproj.CoreCompileInputs.cache
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.exe
+C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Release\Circular_Progressbar.pdb
