@@ -8,4 +8,3 @@ C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Debug
 C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Debug\Circular_Progressbar.csproj.CoreCompileInputs.cache
 C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Debug\Circular_Progressbar.exe
 C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Debug\Circular_Progressbar.pdb
-C:\Den\Programming\Sharp_new\Circular_Progressbar\Circular_Progressbar\obj\Debug\Circular_Progressbar.csprojAssemblyReference.cache

@@ -52,7 +52,7 @@ namespace Circular_Progressbar.Code
             strFrmt.LineAlignment = StringAlignment.Center;
             strFrmt.Alignment = StringAlignment.Center;
             e.Graphics.RotateTransform(90);
-            e.Graphics.DrawString(str, new Font("Arila", 22), new SolidBrush(_arc), rect, strFrmt);
+            e.Graphics.DrawString(str, new Font("Arial", 22), new SolidBrush(_arc), rect, strFrmt);
             /* /Текст */
         }
 
